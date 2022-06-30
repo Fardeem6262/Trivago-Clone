@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mmll{
+
+    margin-left: 4rem;
+    padding: 4px;
+    font-size: 14px;
+    color: #0a1121;
+    text-decoration: none;
+    text-align: center;
+}
+.cvcv{
+    float: inline-end;
+    margin-left: 7rem;
+    padding: 2px;
+    font-size: 14px;
+    color: #0a1121;
+    text-decoration: none;
+    text-align: center;
+}
+.imges{
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+.textk{
+    margin-left: 9rem;
+    margin-top: -3rem;
+}
+.trtr{
+    margin-left: 1rem;
+    margin-left: 2rem;
+}
+.textko{
+    margin-left: 18rem;
+}
+.section1{
+    margin-top: 3rem;
+    background-color: darkgray;
+    width: 90rem;
+    height: 25rem;
+}
+.vgl{
+    text-align: center;
+    justify-content: center;
+}
+.xcxc{
+    margin-left: 4rem;
+    margin-top: -2rem;
+}
+.imgg{
+    margin-left: 15px;
+    margin-top: 2rem;
+    padding: 5px 2px;
+}
